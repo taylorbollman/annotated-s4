@@ -1,0 +1,16 @@
+conda-forge/linux-64                                        Using cache
+conda-forge/noarch                                          Using cache
+Transaction
+
+  Prefix: /root/miniforge3/envs/S4Jax
+
+  All requested packages already installed
+
+
+Looking for: ['jaxlib', '0.3.7']
+
+
+Pinned packages:
+  - python 3.10.*
+
+
